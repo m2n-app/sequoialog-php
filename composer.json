@@ -1,0 +1,17 @@
+{
+	"name": "m2n-app/sequoialog-php",
+	"description": "Integração com a API de envio da Sequoia Log",
+	"keywords": ["sequoialog"],
+	"homepage": "https://github.com/m2n-app/sequoialog-php",
+	"license": "MIT",
+	"version": "0.1",
+    "require": {
+        "php": ">=7.4.3"
+    },
+	"authors": [
+		{
+			"name": "M2N",
+			"email": "contato@m2n.com.br"
+		}
+	]
+}
